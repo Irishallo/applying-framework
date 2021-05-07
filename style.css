@@ -1,0 +1,13 @@
+body {
+    background-color: #252525;
+}
+
+#container {
+    background: linear-gradient(90deg, rgba(244,96,4,1) 0%, rgba(180,22,5,1) 28%, rgba(162,29,121,1) 68%, rgba(1,153,151,1) 100%) no-repeat;
+    background-size: 100% 70%;
+}
+
+header {
+    background-color: #25252530;
+    height: 80px;
+}
