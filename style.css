@@ -9,5 +9,26 @@ body {
 
 header {
     background-color: #25252530;
-    height: 80px;
+    color: #ffffff;
+    height: 50px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+
+nav > h1 {
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.rondknop {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: #ffffff;
+    border: none;
 }
